@@ -8,7 +8,7 @@ const path = require('path');
 
 const pdf = require('pdf-parse');
 
-require('dotenv').config();
+
 
 const app = express();
 const port = 3002;
